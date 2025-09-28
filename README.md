@@ -1,68 +1,138 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=32&duration=3000&pause=700&color=00FFD0&center=true&vCenter=true&width=600&lines=anarossi22;Code.+Create.+Inspire." alt="Typing Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC0CB,50:FF69B4,100:BA55D3&height=180&section=header&text=anarossi22's%20Creative%20Code%20💖&fontSize=48&fontAlignY=50&fontColor=fff" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,go,react,nextjs,nodejs,docker,githubactions,linux" height="55"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=32&duration=3000&pause=700&color=FF69B4&center=true&width=600&lines=Design.+Code.+Inspire." alt="Typing Animation" />
 </p>
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,py,go,react,nextjs,nodejs,docker,githubactions,linux" height="60"/>
+</div>
+
+<div align="center">
+  <b><i>“The best way to predict the future is to create it.”</i></b>
+</div>
+
 <p align="center">
-  <b><i>“Code is art. Debugging is magic.”</i></b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC0CB,50:FF69B4,100:BA55D3&height=100&section=header" width="100%" />
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC0CB,50:FF69B4,100:BA55D3&height=100&section=header" width="100%" />
+</p>
 
 ## 💡 About Me
 
-Hi, I’m **anarossi22** — a code artisan, tech explorer, and lifelong learner.  
-I turn ☕ into code, bugs into features, and ideas into reality.
+<div align="center">
+  Hello there! I'm <strong>anarossi22</strong>, a passionate developer with a love for crafting elegant and user-friendly software.<br/>
+  I enjoy exploring new technologies and contributing to creative projects.<br/>
+  Let's connect and create something amazing!
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC0CB,50:FF69B4,100:BA55D3&height=100&section=footer" width="100%" />
+</p>
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC0CB,50:FF69B4,100:BA55D3&height=100&section=header" width="100%" />
+</p>
+
+## 🔥 Programmer Activity
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Always%20Coding-FFC0CB?style=for-the-badge&logo=visualstudiocode&logoColor=BA55D3" />
+  <img src="https://img.shields.io/badge/Weekly%20Commits-FF69B4?style=for-the-badge&logo=git&logoColor=FFC0CB" />
+  <img src="https://img.shields.io/badge/Open%20Source%20Active-BA55D3?style=for-the-badge&logo=github&logoColor=FF69B4" />
+</p>
+
+<p align="center">
+  <i>“The only way to do great work is to love what you do.”</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC0CB,50:FF69B4,100:BA55D3&height=100&section=footer" width="100%" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC0CB,50:FF69B4,100:BA55D3&height=100&section=header" width="100%" />
+</p>
 
 ## 🛸 Tech Arsenal
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript&logoColor=3178C6)
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python&logoColor=3776AB)
-![Go](https://img.shields.io/badge/-Go-333?style=flat&logo=go&logoColor=00ADD8)
-![React](https://img.shields.io/badge/-React-333?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/-Next.js-333?style=flat&logo=next.js&logoColor=ffffff)
-![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js&logoColor=339933)
-![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker&logoColor=2496ED)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333?style=flat&logo=github-actions&logoColor=2088FF)
-
----
-
-## 🚀 What I Do
-
-- 🏗️ Build scalable web apps  
-- ⚡ Automate all the things  
-- 🛠️ Refactor for fun  
-- 🚢 Ship fast, break nothing  
-
----
-
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anarossi22&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anarossi22&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://img.shields.io/badge/-JavaScript-FFC0CB?style=for-the-badge&logo=javascript&logoColor=FF69B4"/>
+  <img src="https://img.shields.io/badge/-TypeScript-FF69B4?style=for-the-badge&logo=typescript&logoColor=BA55D3"/>
+  <img src="https://img.shields.io/badge/-Python-BA55D3?style=for-the-badge&logo=python&logoColor=FFC0CB"/>
+  <img src="https://img.shields.io/badge/-Go-FFC0CB?style=for-the-badge&logo=go&logoColor=FF69B4"/>
+  <img src="https://img.shields.io/badge/-React-FF69B4?style=for-the-badge&logo=react&logoColor=BA55D3"/>
+  <img src="https://img.shields.io/badge/-Next.js-BA55D3?style=for-the-badge&logo=next.js&logoColor=FFC0CB"/>
+  <img src="https://img.shields.io/badge/-Node.js-FFC0CB?style=for-the-badge&logo=node.js&logoColor=FF69B4"/>
+  <img src="https://img.shields.io/badge/-Docker-FF69B4?style=for-the-badge&logo=docker&logoColor=BA55D3"/>
+  <img src="https://img.shields.io/badge/-GitHub%20Actions-BA55D3?style=for-the-badge&logo=github-actions&logoColor=FFC0CB"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anarossi22&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anarossi22&theme=tokyonight" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/anarossi22?affiliations=OWNER%2CCOLLABORATOR&label=Total%20Stars&logo=github&color=7e5bef&style=for-the-badge"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC0CB,50:FF69B4,100:BA55D3&height=100&section=footer" width="100%" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:2ff7d6,100:7e5bef&height=120&section=footer&fontColor=fff&text=Happy%20Coding!&fontSize=30" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC0CB,50:FF69B4,100:BA55D3&height=100&section=header" width="100%" />
+</p>
+
+## 📊 My GitHub in Numbers
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anarossi22&show_icons=true&theme=dracula&hide_border=true&title_color=BA55D3&icon_color=FFC0CB&text_color=FF69B4&border_color=FFC0CB" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anarossi22&langs_count=8&layout=compact&theme=dracula&hide_border=true&title_color=FF69B4&icon_color=BA55D3&text_color=FFC0CB&border_color=FF69B4" height="165"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anarossi22&theme=dracula&hide_border=true&border_color=BA55D3" height="165"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anarossi22&theme=dracula" height="165"/>
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/anarossi22?affiliations=OWNER%2CCOLLABORATOR&label=Total%20Stars&logo=github&color=FFC0CB&style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC0CB,50:FF69B4,100:BA55D3&height=100&section=footer" width="100%" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC0CB,50:FF69B4,100:BA55D3&height=80&section=header" width="100%" />
+</p>
+
+## 🏆 My GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app?username=anarossi22&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false"/>
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC0CB,50:FF69B4,100:BA55D3&height=80&section=footer" width="100%" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC0CB,50:FF69B4,100:BA55D3&height=150&section=footer&fontColor=fff&text=Happy%20Coding!%20%F0%9F%92%A1&fontSize=30" width="100%" alt="footer"/>
+  <br/>
+  <blockquote>
+    <p><strong>“It's not a bug, it's an undocumented feature.”</strong></p>
+  </blockquote>
 </p>
